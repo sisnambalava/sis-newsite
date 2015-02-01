@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<panchangam>
+  <EventID>oct-2012</EventID>
+  <EventName>October 2012</EventName>
+  <EventDate>
+    <day>
+      <date>2012-10-04</date>
+      <text>Krithigai</text>
+    </day>
+    <day>
+      <date>2012-10-06</date>
+      <text>Sashti</text>
+    </day>
+    <day>
+      <date>2012-10-11</date>
+      <text>Ekadasi</text>
+    </day>
+    <day>
+      <date>2012-10-13</date>
+      <text>Pradosham</text>
+    </day>
+    <day>
+      <date>2012-10-15</date>
+      <text>Mahalaya Amavasai</text>
+    </day>
+    <day>
+      <date>2012-10-16</date>
+      <text>Navarathri</text>
+    </day>
+    <day>
+      <date>2012-10-17</date>
+      <text>Ayppasi Maasa Prirappu</text>
+    </day>
+    <day>
+      <date>2012-10-18</date>
+      <text>Chathurthi</text>
+    </day>
+    <day>
+      <date>2012-10-20</date>
+      <text>Sashti</text>
+    </day>
+    <day>
+      <date>2012-10-23</date>
+      <text>Saraswathi Pooja/Ayudha Pooja</text>
+    </day>
+    <day>
+      <date>2012-10-24</date>
+      <text>Vijaya Dasami</text>
+    </day>
+    <day>
+      <date>2012-10-25</date>
+      <text>Ekadasi</text>
+    </day>
+    <day>
+      <date>2012-10-27</date>
+      <text>Sani Pradosham</text>
+    </day>
+    <day>
+      <date>2012-10-29</date>
+      <text>Pournami/Maha Annabishegam</text>
+    </day>
+    <day>
+      <date>2012-10-31</date>
+      <text>Krithigai</text>
+    </day>
+  </EventDate>
+  <ExpiryDate>2012-11-01</ExpiryDate>
+</panchangam>

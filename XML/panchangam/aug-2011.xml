@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<panchangam>
+  <EventID>aug-2011</EventID>
+  <EventName>August 2011</EventName>
+  <EventDate>
+    <day>
+      <date>2011-08-02</date>
+      <text>Aadi Pooram</text>
+    </day>
+    <day>
+      <date>2011-08-03</date>
+      <text>Aadi Padhinettam Perukkku/Chadurthi</text>
+    </day>
+    <day>
+      <date>2011-08-05</date>
+      <text>Sashti</text>
+    </day>
+    <day>
+      <date>2011-08-09</date>
+      <text>Ekadesi</text>
+    </day>
+    <day>
+      <date>2011-08-11</date>
+      <text>Pradosham</text>
+    </day>
+    <day>
+      <date>2011-08-12</date>
+      <text>Varalakshmi Vridham</text>
+    </day>
+    <day>
+      <date>2011-08-13</date>
+      <text>Pournami/Rig/Yajur Upakarmam</text>
+    </day>
+    <day>
+      <date>2011-08-14</date>
+      <text>Gayathri Japam</text>
+    </day>
+    <day>
+      <date>2011-08-17</date>
+      <text>Sankata Hara Chadurthi</text>
+    </day>
+    <day>
+      <date>2011-08-18</date>
+      <text>Aavani Maadha Pirappu</text>
+    </day>
+    <day>
+      <date>2011-08-20</date>
+      <text>Sashti</text>
+    </day>
+    <day>
+      <date>2011-08-21</date>
+      <text>Gokulashtami</text>
+    </day>
+    <day>
+      <date>2011-08-22</date>
+      <text>Kiruthigai</text>
+    </day>
+    <day>
+      <date>2011-08-25</date>
+      <text>Ekadesi</text>
+    </day>
+    <day>
+      <date>2011-08-26</date>
+      <text>Pradosham</text>
+    </day>
+    <day>
+      <date>2011-08-29</date>
+      <text>Ammavasai</text>
+    </day>
+  </EventDate>
+  <ExpiryDate>2011-09-01</ExpiryDate>
+</panchangam>

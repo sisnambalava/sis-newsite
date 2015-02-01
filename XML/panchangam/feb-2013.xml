@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<panchangam>
+  <EventID>feb-2013</EventID>
+  <EventName>February 2013</EventName>
+  <EventDate>
+    <day>
+      <date>2013-02-06</date>
+      <text>Ekadasi</text>
+    </day>
+    <day>
+      <date>2013-02-08</date>
+      <text>Pradosham</text>
+    </day>
+    <day>
+      <date>2013-02-09</date>
+      <text>Thai Amavasi</text>
+    </day>
+    <day>
+      <date>2013-02-13</date>
+      <text>Maasi Maasa Pirappu</text>
+    </day>
+    <day>
+      <date>2013-02-14</date>
+      <text>Chathurthi</text>
+    </day>
+    <day>
+      <date>2013-02-16</date>
+      <text>Sashti</text>
+    </day>
+    <day>
+      <date>2013-02-17</date>
+      <text>Rathasapthami</text>
+    </day>
+    <day>
+      <date>2013-02-18</date>
+      <text>Krithigai</text>
+    </day>
+    <day>
+      <date>2013-02-21</date>
+      <text>Ekadasi</text>
+    </day>
+    <day>
+      <date>2013-02-23</date>
+      <text>Pradosham</text>
+    </day>
+    <day>
+      <date>2013-02-24</date>
+      <text>Natarajar Abishegam</text>
+    </day>
+    <day>
+      <date>2013-02-25</date>
+      <text>Maasi Maham/Pournami</text>
+    </day>    
+  </EventDate>
+  <ExpiryDate>2013-03-01</ExpiryDate>
+</panchangam>

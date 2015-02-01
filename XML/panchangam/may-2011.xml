@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<panchangam>
+  <EventID>may-2011</EventID>
+  <EventName>May 2011</EventName>
+  <EventDate>
+    <day>
+      <date>2011-05-03</date>
+      <text>Ammavasai</text>
+    </day>
+    <day>
+      <date>2011-05-04</date>
+      <text>Kirthigai</text>
+    </day>
+    <day>
+      <date>2011-05-06</date>
+      <text>Akshaya Thruthiyai</text>
+    </day>
+    <day>
+      <date>2011-05-07</date>
+      <text>Ramanujar Jayanthi/Chadurthi</text>
+    </day>
+    <day>
+      <date>2011-05-08</date>
+      <text>Sankara Jayanthi/Guru Peyarchi</text>
+    </day>
+    <day>
+      <date>2011-05-09</date>
+      <text>Sashti</text>
+    </day>
+    <day>
+      <date>2011-05-13</date>
+      <text>Ekadesi</text>
+    </day>
+    <day>
+      <date>2011-05-15</date>
+      <text>Vaikasi Maasa Pirappu/Pradosham</text>
+    </day>
+    <day>
+      <date>2011-05-16</date>
+      <text>Ragu/Kedhu Peyarchi</text>
+    </day>
+    <day>
+      <date>2011-05-17</date>
+      <text>Pourmani</text>
+    </day>
+    <day>
+      <date>2011-05-20</date>
+      <text>Sankata Hara Chadurthi</text>
+    </day>
+    <day>
+      <date>2011-05-23</date>
+      <text>Sashti</text>
+    </day>
+    <day>
+      <date>2011-05-28</date>
+      <text>Ekadesi</text>
+    </day>
+    <day>
+      <date>2011-05-30</date>
+      <text>Soma Pradosham</text>
+    </day>
+  </EventDate>
+  <ExpiryDate>2011-06-01</ExpiryDate>
+</panchangam>

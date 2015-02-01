@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<panchangam>
+  <EventID>dec-2012</EventID>
+  <EventName>December 2012</EventName>
+  <EventDate>
+    <day>
+      <date>2012-12-02</date>
+      <text>Raghu,Kethu Peyarchi</text>
+    </day>
+    <day>
+      <date>2012-12-06</date>
+      <text>Kaala Bhairavashtami</text>
+    </day>
+    <day>
+      <date>2012-12-09</date>
+      <text>Ekadasi</text>
+    </day>
+    <day>
+      <date>2012-12-11</date>
+      <text>Pradosham</text>
+    </day>
+    <day>
+      <date>2012-12-13</date>
+      <text>Amavasai</text>
+    </day>
+    <day>
+      <date>2012-12-16</date>
+      <text>Maargazhi Maasa Pirappu</text>
+    </day>
+    <day>
+      <date>2012-12-18</date>
+      <text>Sashti</text>
+    </day>
+    <day>
+      <date>2012-12-24</date>
+      <text>Vaikunta Ekadasi</text>
+    </day>
+    <day>
+      <date>2012-12-25</date>
+      <text>Krithigai</text>
+    </day>
+    <day>
+      <date>2012-12-28</date>
+      <text>Pournami/Arudra Dharisanam</text>
+    </day>
+    <day>
+      <date>2012-12-31</date>
+      <text>Sankatahara Chathurthi</text>
+    </day>
+  </EventDate>
+  <ExpiryDate>2013-01-01</ExpiryDate>
+</panchangam>

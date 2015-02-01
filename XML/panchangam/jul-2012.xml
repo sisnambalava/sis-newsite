@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<panchangam>
+  <EventID>jul-2012</EventID>
+  <EventName>July 2012</EventName>
+  <EventDate>
+    <day>
+      <date>2012-07-01</date>
+      <text>Pradosham</text>
+    </day>
+    <day>
+      <date>2012-07-03</date>
+      <text>Pournami</text>
+    </day>
+    <day>
+      <date>2012-07-07</date>
+      <text>Sankatahara Chathurthi</text>
+    </day>
+    <day>
+      <date>2012-07-09</date>
+      <text>Sashti</text>
+    </day>
+    <day>
+      <date>2012-07-14</date>
+      <text>Krithigai/Ekadasi</text>
+    </day>
+    <day>
+      <date>2012-07-16</date>
+      <text>Prodasham/Dhakshinayanam/Aadi Pandigai</text>
+    </day>
+    <day>
+      <date>2012-07-18</date>
+      <text>Aadi Amavasai</text>
+    </day>
+    <day>
+      <date>2012-07-22</date>
+      <text>Chathurthi</text>
+    </day>
+    <day>
+      <date>2012-07-23</date>
+      <text>Aadi Pooram</text>
+    </day>
+    <day>
+      <date>2012-07-24</date>
+      <text>Sashti/Sama Upakarma</text>
+    </day>
+    <day>
+      <date>2012-07-27</date>
+      <text>Varalakshmi Vratham</text>
+    </day>
+    <day>
+      <date>2012-07-29</date>
+      <text>Ekadasi</text>
+    </day>
+    <day>
+      <date>2012-07-30</date>
+      <text>Prodasham</text>
+    </day>    
+  </EventDate>
+  <ExpiryDate>2012-08-01</ExpiryDate>
+</panchangam>

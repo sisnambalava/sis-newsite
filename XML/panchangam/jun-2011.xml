@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<panchangam>
+  <EventID>jun-2011</EventID>
+  <EventName>June 2011</EventName>
+  <EventDate>
+    <day>
+      <date>2011-06-01</date>
+      <text>Ammavasai/Kirthigai</text>
+    </day>
+    <day>
+      <date>2011-06-05</date>
+      <text>Chadurthi</text>
+    </day>
+    <day>
+      <date>2011-06-07</date>
+      <text>Sashti</text>
+    </day>
+    <day>
+      <date>2011-06-12</date>
+      <text>Ekadesi</text>
+    </day>
+    <day>
+      <date>2011-06-13</date>
+      <text>Vaikasi Visakam/Pradosham</text>
+    </day>
+    <day>
+      <date>2011-06-14</date>
+      <text>Kanchi Mahaperiyaval Jayanthi</text>
+    </day>
+    <day>
+      <date>2011-06-15</date>
+      <text>Pournami/Chandra Grahanam</text>
+    </day>
+    <day>
+      <date>2011-06-16</date>
+      <text>Aani Maadha Pirappu</text>
+    </day>
+    <day>
+      <date>2011-06-19</date>
+      <text>Sankata Hara Chadurthi</text>
+    </day>
+    <day>
+      <date>2011-06-21</date>
+      <text>Sashti</text>
+    </day>
+    <day>
+      <date>2011-06-27</date>
+      <text>Ekadesi</text>
+    </day>
+    <day>
+      <date>2011-06-28</date>
+      <text>Kirthigai/Pradosham</text>
+    </day>
+  </EventDate>
+  <ExpiryDate>2011-07-01</ExpiryDate>
+</panchangam>

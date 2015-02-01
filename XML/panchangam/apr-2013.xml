@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<panchangam>
+  <EventID>apr-2013</EventID>
+  <EventName>April 2013</EventName>
+  <EventDate>
+    <day>
+      <date>2013-04-01</date>
+      <text>Sashti</text>
+    </day>
+    <day>
+      <date>2013-04-06</date>
+      <text>Ekadasi</text>
+    </day>
+    <day>
+      <date>2013-04-07</date>
+      <text>Prodasham</text>
+    </day>
+    <day>
+      <date>2013-04-10</date>
+      <text>Amavasai</text>
+    </day>
+    <day>
+      <date>2013-04-11</date>
+      <text>Ugadi Pandigai</text>
+    </day>
+    <day>
+      <date>2013-04-13</date>
+      <text>Krithigai</text>
+    </day>
+    <day>
+      <date>2013-04-14</date>
+      <text>Tamil New Year/Chathurthi</text>
+    </day>
+  </EventDate>
+  <ExpiryDate>2013-05-01</ExpiryDate>
+</panchangam>

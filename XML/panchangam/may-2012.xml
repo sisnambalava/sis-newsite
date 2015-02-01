@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<panchangam>
+  <EventID>may-2012</EventID>
+  <EventName>May 2012</EventName>
+  <EventDate>
+    <day>
+      <date>2012-05-18</date>
+      <text>Pradosham</text>
+    </day>
+    <day>
+      <date>2012-05-20</date>
+      <text>Amavasai/Krithigai</text>
+    </day>
+    <day>
+      <date>2012-05-24</date>
+      <text>Chathurthi</text>
+    </day>
+    <day>
+      <date>2012-05-27</date>
+      <text>Sashti</text>
+    </day>
+    <day>
+      <date>2012-05-31</date>
+      <text>Ekadasi</text>
+    </day>
+  </EventDate>
+  <ExpiryDate>2012-06-01</ExpiryDate>
+</panchangam>

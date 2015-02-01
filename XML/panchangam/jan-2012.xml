@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<panchangam>
+  <EventID>jan-2012</EventID>
+  <EventName>January 2012</EventName>
+  <EventDate>
+    <day>
+      <date>2012-01-05</date>
+      <text>Vaigunda Ekadasi/Kirthigai</text>
+    </day>
+    <day>
+      <date>2012-01-06</date>
+      <text>Pradosham</text>
+    </day>
+    <day>
+      <date>2012-01-08</date>
+      <text>Aaarudhra Dharisanam</text>
+    </day>
+    <day>
+      <date>2012-01-09</date>
+      <text>Pournami/Ramana Maharishi Jayanthi</text>
+    </day>
+    <day>
+      <date>2012-01-12</date>
+      <text>Koodaarai Valli/Sankata Hara Chadurthi</text>
+    </day>
+    <day>
+      <date>2012-01-13</date>
+      <text>Thyagarajar Aaradhanai</text>
+    </day>
+    <day>
+      <date>2012-01-14</date>
+      <text>Bogi Pandigai</text>
+    </day>
+    <day>
+      <date>2012-01-15</date>
+      <text>Thai Maadha Pirappu/Pongal Pandigai</text>
+    </day>
+    <day>
+      <date>2012-01-16</date>
+      <text>Kanu/Maattu Pongal</text>
+    </day>
+    <day>
+      <date>2012-01-19</date>
+      <text>Ekadasi</text>
+    </day>
+    <day>
+      <date>2012-01-20</date>
+      <text>Pradosham</text>
+    </day>
+    <day>
+      <date>2012-01-22</date>
+      <text>Thai Ammavasai</text>
+    </day>
+    <day>
+      <date>2012-01-26</date>
+      <text>Indian Republic Day</text>
+    </day>
+    <day>
+      <date>2012-01-27</date>
+      <text>Chadurthi</text>
+    </day>
+    <day>
+      <date>2012-01-29</date>
+      <text>Sashti</text>
+    </day>
+    <day>
+      <date>2012-01-30</date>
+      <text>Rathasapthami</text>
+    </day>
+    <day>
+      <date>2012-01-31</date>
+      <text>Bishmashtami</text>
+    </day>
+  </EventDate>
+  <ExpiryDate>2012-02-01</ExpiryDate>
+</panchangam>

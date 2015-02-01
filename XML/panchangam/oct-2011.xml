@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<panchangam>
+  <EventID>oct-2011</EventID>
+  <EventName>October 2011</EventName>
+  <EventDate>
+    <day>
+      <date>2011-10-02</date>
+      <text>Sashti</text>
+    </day>
+    <day>
+      <date>2011-10-05</date>
+      <text>Saraswathi Poojai</text>
+    </day>
+    <day>
+      <date>2011-10-06</date>
+      <text>Vijayadasami</text>
+    </day>
+    <day>
+      <date>2011-10-07</date>
+      <text>Ekadesi</text>
+    </day>
+    <day>
+      <date>2011-10-09</date>
+      <text>Pradosham</text>
+    </day>
+    <day>
+      <date>2011-10-10</date>
+      <text>Natarajar Abishegam</text>
+    </day>
+    <day>
+      <date>2011-10-11</date>
+      <text>Pournami</text>
+    </day>
+    <day>
+      <date>2011-10-15</date>
+      <text>Sankata Hara Chadurthi/Kirthigai</text>
+    </day>
+    <day>
+      <date>2011-10-18</date>
+      <text>Ipasy Maada Pirppu/Sashti</text>
+    </day>
+    <day>
+      <date>2011-10-23</date>
+      <text>Ekadesi</text>
+    </day>
+    <day>
+      <date>2011-10-24</date>
+      <text>Pradosham</text>
+    </day>
+    <day>
+      <date>2011-10-26</date>
+      <text>Ammavasai/Deepavali</text>
+    </day>
+    <day>
+      <date>2011-10-30</date>
+      <text>Chadurthy</text>
+    </day>
+    <day>
+      <date>2011-10-31</date>
+      <text>Skanda Sashti</text>
+    </day>
+  </EventDate>
+  <ExpiryDate>2011-11-01</ExpiryDate>
+</panchangam>

@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<panchangam>
+  <EventID>apr-2012</EventID>
+  <EventName>April 2012</EventName>
+  <EventDate>
+    <day>
+      <date>2012-04-01</date>
+      <text>Sri Rama Navami</text>
+    </day>
+    <day>
+      <date>2012-04-03</date>
+      <text>Ekadasi/Thiru Mayilai Ther</text>
+    </day>
+    <day>
+      <date>2012-04-04</date>
+      <text>Pradosham/Thiru Mayilai Aruvathi Moovar</text>
+    </day>
+    <day>
+      <date>2012-04-05</date>
+      <text>Panguni Uthiram</text>
+    </day>
+    <day>
+      <date>2012-04-06</date>
+      <text>Pournami</text>
+    </day>
+    <day>
+      <date>2012-04-09</date>
+      <text>Sankata Hara Chadurthi</text>
+    </day>
+    <day>
+      <date>2012-04-10</date>
+      <text>Varaha Jayanthi</text>
+    </day>
+    <day>
+      <date>2012-04-11</date>
+      <text>Sashti</text>
+    </day>
+    <day>
+      <date>2012-04-13</date>
+      <text>Tamil Varuda Pirappu</text>
+    </day>
+  </EventDate>
+  <ExpiryDate>2012-05-01</ExpiryDate>
+</panchangam>

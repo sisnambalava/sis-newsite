@@ -1,0 +1,56 @@
+﻿<?xml version="1.0"?>
+<panchangam>
+  <EventID>apr-2011</EventID>
+  <EventName>April 2011</EventName>
+  <EventDate>
+    <day>
+      <date>2011-04-03</date>
+      <text>Ammavasai</text>
+    </day>
+    <day>
+      <date>2011-04-07</date>
+      <text>Chadurthi - Kirthigai</text>
+    </day>
+    <day>
+      <date>2011-04-09</date>
+      <text>Sashti</text>
+    </day>
+    <day>
+      <date>2011-04-12</date>
+      <text>Sri Rama Navami</text>
+    </day>
+    <day>
+      <date>2011-04-14</date>
+      <text>Tamil New Year's Day - Ekadesi</text>
+    </day>
+    <day>
+      <date>2011-04-15</date>
+      <text>Pradosham</text>
+    </day>
+    <day>
+      <date>2011-04-17</date>
+      <text>Chitra Pournami</text>
+    </day>
+    <day>
+      <date>2011-04-21</date>
+      <text>Sankatahara Chadurthi</text>
+    </day>
+    <day>
+      <date>2011-04-23</date>
+      <text>Sashti</text>
+    </day>
+    <day>
+      <date>2011-04-25</date>
+      <text>Chitra Thiruvonam (Natarajar Abishemam)</text>
+    </day>
+    <day>
+      <date>2011-04-28</date>
+      <text>Ekadesi</text>
+    </day>
+    <day>
+      <date>2011-04-30</date>
+      <text>Sani Pradosham</text>
+    </day>    
+  </EventDate>
+  <ExpiryDate>2011-05-01</ExpiryDate>
+</panchangam>

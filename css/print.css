@@ -1,0 +1,80 @@
+/* -------------------------------------------------------------- 
+  
+   Blueprint CSS Framework Print Styles
+   * Gives you some sensible styles for printing pages.
+   See Readme file in this directory for further instructions.
+      
+   Some additions you'll want to make, customized to your markup:
+   #header, #footer, #navigation { display:none; }
+	 
+-------------------------------------------------------------- */
+body {
+  line-height: 1.5;
+  font-family: "Helvetica Neue", "Lucida Grande", Arial, Verdana, sans-serif;   
+  color:#000;
+  background: none;
+  font-size: 10pt;
+  text-align: center;
+}
+.print_page_break {
+	page-break-before: always;
+}
+#wrapper {
+  background: none;
+}
+.clear {
+	clear:both;
+}
+h1,h2,h3,h4,h5,h6 { font-family: "Calibri","Helvetica Neue", Arial, "Lucida Grande", sans-serif; text-align: left; }
+h1 { border-bottom: 3px solid #666; clear: both;}
+h2 { border-bottom: 1px dotted #666; font-weight: normal;}
+code { font:.9em "Courier New", Monaco, Courier, monospace; } 
+#footer { border-top: 3px solid #666; clear: both; padding: 20px 0 0 0; margin: 20px 0 0;}
+.small-print { font-size: 10px; }
+img { margin:1.5em auto; }
+a img { border:none; }
+p img.top { margin-top: 0; }
+p a:link:after, p a:visited:after { content:" [" attr(href) "] "; }
+p, ul, li, ol { text-align: left;}
+.print_title { font-weight: bold; text-align: center; font-size: 1.1em; margin: 0.3em;}
+.strapline { text-align: center; font-style: italic; margin: 0.3em;}
+hr { 
+  display: none;
+}
+blockquote {
+  margin:1.5em;
+  padding:1em;
+  font-style:italic;
+  font-size: 1em;
+}
+.small  { font-size: .9em; }
+.large  { font-size: 1.1em; }
+.quiet  { color: #999; }
+p, cite { margin-left: 25px; font-style: normal;}
+h3 { margin-left: 25px; }
+table { width: 100%; font-size: 9px; border-top: 1px solid #ccc; border-left: 1px solid #ccc;}
+th { text-align: left; padding: 5px; border-bottom: 2px solid #ccc; background: #fff; border-right: 1px solid #ccc; margin: 0;}
+td { text-align: left; padding: 5px; border-right: 1px solid #ccc; border-bottom: 1px solid #ccc; margin: 0;}
+table a { color: #000; text-decoration: none; }
+.info_heading { float:left; font-weight: 700; margin-right: 10px;}
+.less-fees { font-size: 9px; margin: 10px 0 0 0; }
+.num-friends { display: block; text-align: left; margin-left: 25px; display: none; }
+#slideshow { margin: 10px 0; }
+#slideshow li { list-style: none; border: 1px solid #ccc; padding: 3px; margin: 0 0 100px; width: 549px; box-shadow: 4px 4px 4px #666; height: auto !important; float: none !important; }
+.image-caption { margin: 5px; }
+#slideshow img { margin: 0; }
+.primary-category { font-style: italic; color: #999; margin: 0 0 0 10px; }
+.microsite-logo { display: block; padding: 0 0 10px; border-bottom: 3px solid #ccc; display: none; }
+.charity-hgroup h2, .appeal-hgroup h2 { border: none; color: #999 !important; }
+.charity-hgroup h2:before, .appeal-hgroup h2:before { content:'\201C'; font-family: Georgia, "Times New Roman", Times, serif; }
+.charity-hgroup h2:after, .appeal-hgroup h2:after { content:'\201D'; font-family: Georgia, "Times New Roman", Times, serif; }
+#slideshow ul { left: 25px !important; height: 390px; overflow: hidden !important; width: 565px !important;  }
+#media-photos { overflow: visible !important; width: 557px !important; }
+#media-map, #media-photos { display: block !important; }
+#media-map img { margin: 0; }
+.donation-cols { text-align: right; width: 95px; }
+tfoot td { border-top: 2px solid #ccc; }
+.stats-table th { border-bottom: 1px solid #ccc; }
+.stats-table td { width: 95px; text-align: right; }
+/*--Hide from printer--*/
+.hide, .print-hide, #login, #nav-holder, .footer-section, .ads, #quicksearch, .fundraiser-search-form, .social-links, #footer-logo, .filter-results, #logged-in, .paging-holder, .small-subnav, .report-actions, .failed-transactions, .microsite-nav, #your-mini-sites, .complain, .social-links-and-paging, .social-links, .subnav, .you-are-a-friend, .become-a-friend, .paging-holder-bottom, .aside-section, .charityslideprev, .charityslidenext, #media-nav, .news-block, .display-checkbox, .admin-footer-section, .switcher, #media-map { display: none !important;}

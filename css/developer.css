@@ -1,0 +1,93 @@
+/*
+  --  DEVELOPMENT STYLES  --
+*/
+.form_panel_bottom tr { border-bottom:1px solid #333; height:25px;}
+.form_panel_bottom th, .form_panel_bottom td { padding:5px 20px 5px 0;}
+/*#confirmdialog { width:400px; height:60px; background:#bbb; border:1px solid #333;padding:10px; margin:10px auto; display:none;}
+#confirmdialog h3 { font-size:150%; line-height:30px; margin:0px; color:#fff; }
+#confirmdialog p { font-size:125%; line-height:20px; margin:10px 0 0 0; }
+#confirmdialogyes, #confirmdialogno { float:left;display:inline;   width:50%; text-align:center; }
+#confirmdialogyes a:link, #confirmdialogyes a:visited, #confirmdialogno a:link, #confirmdialogno a:visited { text-decoration:none; color:#888; }
+#confirmdialogyes a:hover, #confirmdialogyes a:active, #confirmdialogno a:hover, #confirmdialogno a:active { text-decoration:none; color:#FFF; font-weight:bold; }*/
+/*.form_content { margin: 0 16px 0 22px; display:inline; }
+.form_content form { background: #f5f5f5; padding: 5px 15px 15px 15px; width: 955px; margin: 10px auto 15px; border:solid 1px #d7d7d7; }
+.form_content label { display: block; margin: 0 0 4px; font-weight:bold; color:#444; }
+.form_content input.text { width: 342px; padding: 4px; color: #333; border: 1px solid #CCC; }
+.form_content select.text { padding: 4px; color: #333; border: 1px solid #CCC; font-size:0.9em;}
+.form_content textarea { width: 342px; padding: 4px; color: #333; font-family: Calibri, Arial, Helvetica, sans-serif; font-size: 1.2em; margin:0px; height: 150px; border: 1px solid #CCC; }
+.submit { text-align: right; padding: 4px 0 0; margin: 0; }
+.radioGroup { display:block; margin-top:10px; }
+.radioGroup legend {  display:inline; font-weight:bold; color:#444; }
+.radioGroup label {  display:inline; font-weight:normal; margin-right:10px; color:#5a5aba; } 
+.checkGroup { display:block; margin-top:10px;  }
+.checkGroup legend {  display:inline; font-weight:bold; color:#444; }
+.checkGroup label {  display:inline; font-weight:normal; margin-right:10px; color:#5a5aba; }*/
+/*.form_content input.abbsformError, .form_content select.abbsformError, .form_content textarea.abbsformError { border: 1px solid #990000; background:#eee; }*/
+/*em.abbsformError { clear:both; border: 0px; color:#d00;}*/
+.form_content input.abbsformValid, .form_content select.abbsformValid, .form_content textarea.abbsformValid { border: 1px solid #009900;}
+.abbsformErrorList p {color:#990000; font-weight:bold;}
+.abbsformErrorList ul li {color:#990000;}
+/*.aac_results ul li {background:#fff; width:240px; padding:4px; border:1px solid #FFF;}
+.ac_results { border:1px solid #ccc; background:#fff;padding:0px; margin:5px 0 0 0; list-style:none; position:absolute; z-index: 10000; display: none; font-size:1.1em; }
+.ac_results ul { padding:0px !important; }
+.ac_results li { padding: 4px 5px; white-space: nowrap; color: #333; text-align: left; list-style-type:none; }
+.ac_over { cursor: pointer; background-color: #ddd; }
+.ac_match { text-decoration: underline; color: #333; }*/
+img.thumbnailgrid { max-width:160px; margin:5px; border:1px solid #333; }
+.imagediv { display:inline; float:left; background:#eee; padding:10px; margin:5px 8px 5px 0px; width:160px; border:1px solid #ddd; }
+.imagediv input.text { width:150px; }
+.imagediv select.text { width:160px; }
+.percentmessageholder { float:left; display:inline; margin:0 10px 0 0; width:225px; }
+/*#recaptcha_js {  width:310px; margin:10px; text-align:left; }
+#recaptcha { width:330px; border: 1px solid #888; text-align:center; background:#fff;  margin: 20px auto; }
+#recaptcha_image {width:300px; height:57px; margin:0 5px; }
+#recaptcha_response_field { display:inline-block; width:216px; height:20px; margin:0px 0px 5px 5px;}
+#recaptcha_challenge_field { width:295px;margin:0px 15px 10px 15px;}
+#recaptcha a:link, #recaptcha a:visited, #recaptcha a:hover, #recaptcha a:active { text-decoration:none; color:#fff;}
+.recaptcha_get_help { display:inline-block; width:20px; height:20px; background:#808; line-height:20px; margin:2px 0 0 2px; text-indent:-5000px;}
+.recaptcha_get_audio { display:inline-block; width:20px; height:20px; background:#080; line-height:20px; margin:2px 0 0 2px; text-indent:-5000px;}
+.recaptcha_get_image { display:inline-block; width:20px; height:20px; background:#008; line-height:20px; margin:2px 0 0 2px; text-indent:-5000px;}
+.recaptcha_get_another { display:inline-block; width:20px; height:20px; background:#800; line-height:20px; margin:2px 0 0 2px; text-indent:-5000px;}
+p.recaptcha_message {margin:5px 10px; display:block; color:#c00;}
+p.recaptcha_only_if_image {color:#333;}
+p.recaptcha_only_if_audio {color:#333;}*/
+/*  OVERLAYS  */
+.preview-popup { width:1007px; height:85%; top:5% !important; margin-left:-524px; z-index: 999; }
+/* FEATURED EVENTS */
+/*#featuredbox { border:1px solid #bf311b; width:640px; padding: 2px;}
+.featureditem { float:left; display:inline; background:#e7e9ea; width:215px; height:113px; border-bottom:1px dotted #bbb; }
+.featureditem p { margin:10px 0 0 10px;  color:#666; font-weight:bold;}
+.featureditemon p { color:#FFF; }
+.featureditemon { background:#bf311b; width:215px; height:112px;}
+.featureditemlast { border:0px;}
+.featureditemphoto { position:relative; width:423px; height:340px; float:right;}
+#featuredbox img { float:right; display:inline; position:relative;}
+.featureditemdetails { position:absolute; right:15px; bottom:15px; width:268px; height:140px; background:rgba(0,0,0,0.8); z-index:999; border-top:5px solid #FFF; margin:0;}
+.featureditemdetails h2 { margin:0px 10px; color:#bf311b; font-size:220%; text-align:right; font-weight:bold; border-bottom:1px solid #fff; margin-top:10px; padding:0 0 5px 0;}
+.featureditemdetails h3 { margin:0px 10px; color:#ffffff; font-size:220%; text-align:right;font-weight:bold; margin-top:10px;}
+#featuredboxcaption { width:640px; margin:10px 0 30px 0;}
+.featuredevent { background:#fcfcfc; margin:20px 0;width:640px; padding:20px; border:1px solid #e7e9ea; }
+.featuredevent h3 { float:left; display:inline; width:300px; padding:0px 10px; background:#a92b18; height:36px; line-height:36px; font-size:180%; color:#fff; font-weight:bold;}
+.featuredevent h3 a { text-decoration:none; color:#fff; }
+.featuredevent h4 { float:left; display:inline; width:300px; padding:0px 10px; background:#a92b18; height:36px; line-height:36px; font-size:150%; text-align:right; color:#fff; font-weight:bold;}
+.featuredevent img { float:left; display:inline; width:300px; margin:10px 20px 10px 0; padding:4px; border:1px solid #e7e9ea; background:#fff;}
+.desc { float:left; display:inline; width:310px; height:50px; margin:10px 0 0 0;}*/
+/*.featuredul { margin:0px; float:left;}
+.featuredul li { background:#e7e9ea; width:195px; height:93px; border-bottom:1px dotted #bbb; list-style-type:none;  margin:0px; padding:10px;}
+.featuredul li.featureditemon { background:#bf311b; width:195px; height:92px;}
+.featuredul li p  { margin:0px 0 0 0px; color:#666; font-weight:bold; font-size:100%;}
+.featuredul li.featureditemon p  { margin:0px 0 0 0px; color:#FFF; font-weight:bold; font-size:100%;}
+.featuredul li a { text-decoration:none; color:#666; }*/
+/*  HIDE VALIDATION  */
+#basecolour .abbsformError, #basecolour .abbsformSuccess { display:none !important; outline:none; }
+/* FUNDRAISER */
+/*.user-nav { border: 1px solid #ccc; -webkit-border-radius: 2px; -moz-border-radius: 2px; border-radius: 2px; background: #f3f3f3; height: 36px; margin:10px; }
+.user-nav ul { margin: 0; }
+.user-nav li { float: left; list-style: none; margin: 0; padding: 0; }
+.user-nav li.on { background: #d1d1d1; }
+.user-nav li a { height: 36px; line-height: 36px; display: block; padding: 0 10px; border-right: 1px solid #ccc; border-left: 1px solid #fff; width: auto; text-decoration: none; color: #333; text-shadow: 1px 1px 1px rgba(255,255,255,0.6); }
+.user-sub-nav { border: 1px solid #ccc; -webkit-border-radius: 2px; -moz-border-radius: 2px; border-radius: 2px; background: #f3f3f3; height: 36px; margin:10px; }
+.user-sub-nav ul { margin: 0; }
+.user-sub-nav li { float: left; list-style: none; margin: 0; padding: 0; }
+.user-sub-nav li.on { background: #d1d1d1; }
+.user-sub-nav li a { height: 36px; line-height: 36px; display: block; padding: 0 10px; border-right: 1px solid #ccc; border-left: 1px solid #fff; width: auto; text-decoration: none; color: #333; text-shadow: 1px 1px 1px rgba(255,255,255,0.6); }*/

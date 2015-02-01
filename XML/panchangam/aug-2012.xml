@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<panchangam>
+  <EventID>aug-2012</EventID>
+  <EventName>August 2012</EventName>
+  <EventDate>
+    <day>
+      <date>2012-08-01</date>
+      <text>Pournami/Yajur Upakarma</text>
+    </day>
+    <day>
+      <date>2012-08-02</date>
+      <text>Gayathri Japam</text>
+    </day>
+    <day>
+      <date>2012-08-03</date>
+      <text>Kanchi Sri Jayendra Saraswathi Jayanthi</text>
+    </day>
+    <day>
+      <date>2012-08-05</date>
+      <text>Sankata Hara Chathurthi</text>
+    </day>
+    <day>
+      <date>2012-08-07</date>
+      <text>Sashti</text>
+    </day>
+    <day>
+      <date>2012-08-09</date>
+      <text>Gokulashtami</text>
+    </day>
+    <day>
+      <date>2012-08-10</date>
+      <text>Aadi Kirthigai</text>
+    </day>
+    <day>
+      <date>2012-08-13</date>
+      <text>Ekadasi</text>
+    </day>
+    <day>
+      <date>2012-08-15</date>
+      <text>Pradosham/Indian Independence Day</text>
+    </day>
+    <day>
+      <date>2012-08-17</date>
+      <text>Amavasai/Avani Maasa Pirappu</text>
+    </day>
+    <day>
+      <date>2012-08-21</date>
+      <text>Chathurthi</text>
+    </day>
+    <day>
+      <date>2012-08-23</date>
+      <text>Sashti</text>
+    </day>
+    <day>
+      <date>2012-08-27</date>
+      <text>Ekadasi</text>
+    </day>
+    <day>
+      <date>2012-08-29</date>
+      <text>Onam/Pradosham</text>
+    </day>
+    <day>
+      <date>2012-08-30</date>
+      <text>Nataraja Abishegam</text>
+    </day>
+    <day>
+      <date>2012-08-31</date>
+      <text>Pournami</text>
+    </day>    
+  </EventDate>
+  <ExpiryDate>2012-09-01</ExpiryDate>
+</panchangam>

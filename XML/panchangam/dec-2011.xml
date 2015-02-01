@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<panchangam>
+  <EventID>dec-2011</EventID>
+  <EventName>December 2011</EventName>
+  <EventDate>
+    <day>
+      <date>2011-12-06</date>
+      <text>Ekadesi</text>
+    </day>
+    <day>
+      <date>2011-12-07</date>
+      <text>Pradosham</text>
+    </day>
+    <day>
+      <date>2011-12-08</date>
+      <text>Thiruvannamalai Deepam</text>
+    </day>
+    <day>
+      <date>2011-12-09</date>
+      <text>Kirthigai/Deepam</text>
+    </day>
+    <day>
+      <date>2011-12-10</date>
+      <text>Pournami/Lunar Eclipse</text>
+    </day>
+    <day>
+      <date>2011-12-14</date>
+      <text>Sankata Hara Chadurthi</text>
+    </day>
+    <day>
+      <date>2011-12-16</date>
+      <text>Sashti</text>
+    </day>
+    <day>
+      <date>2011-12-17</date>
+      <text>Maargazhi Maadha Pirappu</text>
+    </day>
+    <day>
+      <date>2011-12-21</date>
+      <text>Ekadesi</text>
+    </day>
+    <day>
+      <date>2011-12-22</date>
+      <text>Pradosham</text>
+    </day>
+    <day>
+      <date>2011-12-24</date>
+      <text>Ammavasai/Hanumath Jayanthi</text>
+    </day>
+    <day>
+      <date>2011-12-28</date>
+      <text>Chadurthi</text>
+    </day>
+    <day>
+      <date>2011-12-30</date>
+      <text>Sashti</text>
+    </day>
+  </EventDate>
+  <ExpiryDate>2012-01-01</ExpiryDate>
+</panchangam>

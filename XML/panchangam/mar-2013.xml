@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<panchangam>
+  <EventID>mar-2013</EventID>
+  <EventName>March 2013</EventName>
+  <EventDate>
+    <day>
+      <date>2013-03-01</date>
+      <text>Sankatahara Chathurthi</text>
+    </day>
+    <day>
+      <date>2013-03-07</date>
+      <text>Ekadasi</text>
+    </day>
+    <day>
+      <date>2013-03-08</date>
+      <text>Kaanchi Vijeyandra Swamigal Jayanthi</text>
+    </day>
+    <day>
+      <date>2013-03-09</date>
+      <text>Prodasham</text>
+    </day>
+    <day>
+      <date>2013-03-10</date>
+      <text>Maha Sivarathri</text>
+    </day>
+    <day>
+      <date>2013-03-11</date>
+      <text>Amavasai</text>
+    </day>
+    <day>
+      <date>2013-03-14</date>
+      <text>Ponguni Maasa Pirappu/Karadayan Nombu</text>
+    </day>
+    <day>
+      <date>2013-03-15</date>
+      <text>Chathurthi</text>
+    </day>
+    <day>
+      <date>2013-03-17</date>
+      <text>Krithigai/Sashti</text>
+    </day>
+    <day>
+      <date>2013-03-23</date>
+      <text>Ekadashi</text>
+    </day>
+    <day>
+      <date>2013-03-24</date>
+      <text>Pradosham</text>
+    </day>
+    <day>
+      <date>2013-03-26</date>
+      <text>Panguni Uthiram/Pournami/Holi Pandigai</text>
+    </day>
+  </EventDate>
+  <ExpiryDate>2013-04-01</ExpiryDate>
+</panchangam>

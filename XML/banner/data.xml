@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Orders>
+  <Order>
+    <no>1</no>
+    <alt>South Indian Society</alt>
+    <link>/</link>
+    <expdate>
+    </expdate>
+    <image>south-indian-society.jpg</image>
+  </Order>
+  <Order>
+    <no>2</no>
+    <alt>Articles</alt>
+    <link>/articles/</link>
+    <expdate>
+    </expdate>
+    <image>arts-1.jpg</image>
+  </Order>
+  <Order>
+    <no>3</no>
+    <alt>SIS Events</alt>
+    <link>/sis-events/</link>
+    <expdate>
+    </expdate>
+    <image>sis-events.jpg</image>
+  </Order>
+  <Order>
+    <no>4</no>
+    <alt>Photos</alt>
+    <link>/photos.aspx</link>
+    <expdate>
+    </expdate>
+    <image>photos.jpg</image>
+  </Order>
+  <Order>
+    <no>5</no>
+    <alt>Useful Information</alt>
+    <link>/useful-info/</link>
+    <expdate>
+    </expdate>
+    <image>useful-info.jpg</image>
+  </Order>
+  <Order>
+    <no>6</no>
+    <alt>South Indian Society</alt>
+    <link>/</link>
+    <expdate>
+    </expdate>
+    <image>notice-board.jpg</image>
+  </Order>
+</Orders>

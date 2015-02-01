@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<panchangam>
+  <EventID>jun-2012</EventID>
+  <EventName>June 2012</EventName>
+  <EventDate>
+    <day>
+      <date>2012-06-02</date>
+      <text>Pradosham(Sani)</text>
+    </day>
+    <day>
+      <date>2012-06-03</date>
+      <text>Vaikasi Visakham</text>
+    </day>
+    <day>
+      <date>2012-06-04</date>
+      <text>Pournami/Kanchi Mahaperiyava Jayanthi</text>
+    </day>
+    <day>
+      <date>2012-06-07</date>
+      <text>Sankatahara Chathurthi</text>
+    </day>
+    <day>
+      <date>2012-06-09</date>
+      <text>Sashti</text>
+    </day>
+    <day>
+      <date>2012-06-15</date>
+      <text>Ekadasi/Aani Maasa Pirappu</text>
+    </day>
+    <day>
+      <date>2012-06-16</date>
+      <text>Pradosham(Sani)</text>
+    </day>
+    <day>
+      <date>2012-06-17</date>
+      <text>Krithigai</text>
+    </day>
+    <day>
+      <date>2012-06-19</date>
+      <text>Amavasai</text>
+    </day>
+    <day>
+      <date>2012-06-23</date>
+      <text>Chathurthi</text>
+    </day>
+    <day>
+      <date>2012-06-25</date>
+      <text>Sashti</text>
+    </day>
+    <day>
+      <date>2012-06-26</date>
+      <text>Aani Utharam/Aani Thirumanjanam/Natarajar Abishegam</text>
+    </day>
+    <day>
+      <date>2012-06-29</date>
+      <text>Ekadasi</text>
+    </day>    
+  </EventDate>
+  <ExpiryDate>2012-07-01</ExpiryDate>
+</panchangam>

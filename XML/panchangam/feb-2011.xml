@@ -1,0 +1,52 @@
+﻿<?xml version="1.0"?>
+<panchangam>
+  <EventID>feb-2011</EventID>
+  <EventName>February 2011</EventName>
+  <EventDate>
+  <day>
+    <date>2011-02-02</date>
+    <text>Ammavasai(Thai Ammavasai)</text>
+  </day>
+  <day>
+    <date>2011-02-07</date>
+    <text>Chadurthi</text>
+  </day>
+  <day>
+    <date>2011-02-09</date>
+    <text>Sashti</text>
+  </day>
+  <day>
+    <date>2011-02-12</date>
+    <text>Kirthigai</text>
+  </day>
+  <day>
+    <date>2011-02-13</date>
+    <text>Maasi Maasa Pirappu</text>
+  </day>
+  <day>
+    <date>2011-02-14</date>
+    <text>Ekadesi</text>
+  </day>
+  <day>
+    <date>2011-02-16</date>
+    <text>Pradosham</text>
+  </day>
+  <day>
+    <date>2011-02-18</date>
+    <text>Pournami - Maasi Magam</text>
+  </day>
+  <day>
+    <date>2011-02-21</date>
+    <text>Sankada Hara Chadurthi</text>
+  </day>
+  <day>
+    <date>2011-02-23</date>
+    <text>Sashti</text>
+  </day>
+  <day>
+    <date>2011-02-28</date>
+    <text>Ekadesi</text>
+  </day>
+  </EventDate>  
+  <ExpiryDate>2011-02-28</ExpiryDate>
+</panchangam>

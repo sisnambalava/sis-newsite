@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<panchangam>
+  <EventID>jul-2011</EventID>
+  <EventName>July 2011</EventName>
+  <EventDate>
+    <day>
+      <date>2011-07-01</date>
+      <text>Ammavasai</text>
+    </day>
+    <day>
+      <date>2011-07-05</date>
+      <text>Chadurthi</text>
+    </day>
+    <day>
+      <date>2011-07-06</date>
+      <text>Sashti</text>
+    </day>
+    <day>
+      <date>2011-07-07</date>
+      <text>Aani Thirumanjanam(Natarajar Abishekam)</text>
+    </day>
+    <day>
+      <date>2011-07-11</date>
+      <text>Ekadesi</text>
+    </day>
+    <day>
+      <date>2011-07-12</date>
+      <text>Pradosham</text>
+    </day>
+    <day>
+      <date>2011-07-15</date>
+      <text>Pournami</text>
+    </day>
+    <day>
+      <date>2011-07-17</date>
+      <text>Aadi Maadha Pirappu/Aadi Pandigai</text>
+    </day>
+    <day>
+      <date>2011-07-18</date>
+      <text>Sankata Hara Chadurthi</text>
+    </day>
+    <day>
+      <date>2011-07-21</date>
+      <text>Sashti</text>
+    </day>
+    <day>
+      <date>2011-07-25</date>
+      <text>Aadi Kiruthigai</text>
+    </day>
+    <day>
+      <date>2011-07-26</date>
+      <text>Ekadesi</text>
+    </day>
+    <day>
+      <date>2011-07-28</date>
+      <text>Pradosham</text>
+    </day>
+    <day>
+      <date>2011-07-30</date>
+      <text>Aadi Ammavasai</text>
+    </day>
+  </EventDate>
+  <ExpiryDate>2011-08-01</ExpiryDate>
+</panchangam>

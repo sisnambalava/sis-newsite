@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<panchangam>
+  <EventID>jan-2013</EventID>
+  <EventName>January 2013</EventName>
+  <EventDate>
+    <day>
+      <date>2013-01-03</date>
+      <text>Sashti</text>
+    </day>
+    <day>
+      <date>2013-01-07</date>
+      <text>Ekadasi</text>
+    </day>
+    <day>
+      <date>2013-01-08</date>
+      <text>Kanchi Maha Pariyaval Aradhanai</text>
+    </day>
+    <day>
+      <date>2013-01-09</date>
+      <text>Pradosham</text>
+    </day>
+    <day>
+      <date>2013-01-11</date>
+      <text>Amavasai/Hanuman Jayanthi</text>
+    </day>
+    <day>
+      <date>2013-01-13</date>
+      <text>Bhogi</text>
+    </day>
+    <day>
+      <date>2013-01-14</date>
+      <text>Pongal/Thai Maasa Pirappu</text>
+    </day>
+    <day>
+      <date>2013-01-15</date>
+      <text>Maattu Pongal/Kanu/Chathurthi</text>
+    </day>
+    <day>
+      <date>2013-01-21</date>
+      <text>Kirthigai</text>
+    </day>
+    <day>
+      <date>2013-01-24</date>
+      <text>Pradosham</text>
+    </day>
+    <day>
+      <date>2013-01-26</date>
+      <text>Pournami/Indian Republic Day</text>
+    </day>
+    <day>
+      <date>2013-01-27</date>
+      <text>Thai Poosam</text>
+    </day>
+    <day>
+      <date>2013-01-30</date>
+      <text>Sankatahara Chathurthi</text>
+    </day>
+    <day>
+      <date>2013-01-31</date>
+      <text>Thyagarajar Aradhanai</text>
+    </day>    
+  </EventDate>
+  <ExpiryDate>2013-02-01</ExpiryDate>
+</panchangam>

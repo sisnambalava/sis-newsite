@@ -1,0 +1,145 @@
+﻿<%@ Master Language="VB" CodeFile="sis.master.vb" Inherits="sis" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+<title id="title" runat="server"></title>
+<meta name="description" content="description" id="description" runat="server" /> 
+<meta name="keywords" content="keys" id="keywords" runat="server" />
+<meta name="robots" content="robots" id="robots" runat="server"/> 
+<meta http-equiv="pragma" content="no-cache" />
+<link rel="stylesheet" href="/css/style.css" type="text/css"/>
+<link href='http://fonts.googleapis.com/css?family=PT+Sans' rel='stylesheet' type='text/css' />
+<link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css" />
+<link href='http://fonts.googleapis.com/css?family=Neucha' rel='stylesheet' type='text/css' />
+<link href='http://fonts.googleapis.com/css?family=Cabin' rel='stylesheet' type='text/css' />
+</head>
+<body>
+<form id="form1" runat="server">
+    <%--HEADER--%>
+    <div id="sis-header" class="sis-theme">
+        <div id="header">
+            <div><a href="/"><img src="/images/sis-header.jpg" style="border:0px;" alt="South Indian Society" title="South Indian Society" /></a></div> 
+        </div>
+        
+        <div id="nav-hold">
+            <ul class="nav clear" id="site">
+	            <li ><a href="/" ><span>Home</span></a></li>
+		        <li><a href="/about-sis.aspx">About SIS</a></li>
+		        <li><a href="/committee-members.aspx">Committee Members</a></li>
+		        <li><a href="/sis-events/">Events</a></li>
+		        <li><a href="/photos.aspx">Photos</a></li>
+	            <li><a href="/articles/">Articles</a></li>
+		        <li><a href="/useful-info/">Useful Info</a></li>
+		        <li><a href="/charity.aspx">Charity</a></li>
+                <asp:panel ID="pnlNewletter" runat="server">
+                <li><a href="" id="hrefnewsletter" runat="server"><span>Newsletter</span></a></li>
+                </asp:panel>
+                <li><a href="/register.aspx">Register</a></li>
+                <li><a href="/contact-sis.aspx">Contact us</a></li>
+            </ul>
+        </div>
+    </div><!--#HEADER-->
+    <%--CONTENT--%>
+    <div id="main-content">
+    <div class="holder sponsor clear sis-theme">
+        <div class="textcontent">
+            <asp:contentplaceholder id="ContentPlaceHolder1" runat="server">
+            </asp:contentplaceholder>
+        </div>
+        <%--RIGHT HAND SIDE--%>
+        <div class="adsponsor"> 
+            <div class="blog-panel sign-up-panel">
+                <h2>Newsletter Sign up</h2>
+                <asp:TextBox ID="txtEmail" runat="server" placeholder="Enter your email address" MaxLength="200"></asp:TextBox><asp:LinkButton Text="<img style='border:0px' src='/images/go-button.png' />" CssClass="btn" runat="server" ID="lnkSubmit" ValidationGroup="newsletter"></asp:LinkButton><br />
+                <asp:RequiredFieldValidator ID="revEmail" runat="server" Font-Size="1.1em" ControlToValidate="txtEmail" ValidationGroup="newsletter" InitialValue="" Text="Email Address is missing"></asp:RequiredFieldValidator>
+            </div>
+            <%--#Advert--%>
+            <asp:Literal ID="ltAdverts" runat="server"></asp:Literal>
+            
+            <div class="advert">
+	            <iframe width="252" height="159" src="//www.youtube.com/embed/kx5IMBYKmL0" frameborder="0" allowfullscreen></iframe>
+            </div>
+                        
+            <%--Events--%>
+            <div class="box-left" id="divAdverts" runat="server" visible="false">            
+                <div class="boxheader">Upcoming SIS Events</div>
+                <asp:Literal ID="ltEvents" runat="server"></asp:Literal>
+                <div class="more_txt"><a href="/sis-events/"><img src="/images/more-button.png" alt="" style="border:0px;" /></a></div>
+            </div>    
+            
+            <%--Articles--%>
+            <div class="box-left" id="divArticles" runat="server" visible="false">
+                <div class="boxheader">Latest Articles</div>
+                <asp:Literal ID="ltArticles" runat="server"></asp:Literal>
+                <div class="more_txt"><a href="/articles/"><img src="/images/more-button.png" alt="" style="border:0px;" /></a></div>
+            </div>
+            
+            <asp:Literal ID="ltArticleCategories" runat="server"></asp:Literal>
+            
+        </div>
+        <%--RIGHT HAND SIDE--%>
+    </div>
+    </div><!--#CONTENT-->
+    <!--FOOTER-->
+    <div id="sisfooter" class="sis-theme">
+    <div class="clear" id="footer">
+        <div class="footerimage"><img src="/images/sis-logo.png" alt="South Indian Society" title="South Indian Society" id="footer-logo" /></div>
+
+        <div class="footerbox">
+            <%--#Popular Articles--%>
+            <div class="boxheader">Popular Articles</div>
+            <asp:Literal ID="ltPopularArticles" runat="server"></asp:Literal>
+        </div>
+
+        <div class="footerbox">
+            <div class="boxheader">Article Categories</div>
+            <ul class="nav">
+                <li><a href="/articles/art/">Arts</a></li>
+                <li><a href="/articles/culture/">Hindu Culture</a></li>
+                <li><a href="/articles/religion/">Hindu Religion</a></li>
+                <li><a href="/articles/temples/">Hindu Temples</a></li>
+                <li><a href="/articles/others/">Others</a></li>
+                <li><a href="/articles/recipes/">Recipes</a></li>
+            </ul>
+            <%--#Latest Articles--%>
+            <asp:Literal ID="ltLatestArticles" runat="server"></asp:Literal>
+        </div>
+        
+        <div class="footerbox">
+            <%--Upcoming Events--%>
+            <asp:Literal ID="ltUpcomingEvents" runat="server"></asp:Literal>
+            <asp:Panel ID="pnlOtherEvents" runat="server">
+                <asp:Literal ID="ltOtherEvents" runat="server"></asp:Literal>
+            </asp:Panel>    
+            <div class="boxheader">Other Links</div>
+            <ul class="nav">
+                <li><a href="/useful-info/">Useful Information</a></li>
+                <li><a href="/useful-info/uk-hindu-temples.aspx">UK Hindu Temples</a></li>
+                <li><a href="/useful-info/uk-hindu-priests.aspx">UK Hindu Priests</a></li>
+                <li><a href="/disclaimer.aspx">Disclaimer</a></li>
+            </ul>
+        </div>
+
+        <div class="footer_txt">Copyright &copy; 2014 South Indian Society. All Rights Reserved.</div>
+    </div>
+    </div><!--#FOOTER-->
+<script type="text/javascript">
+function call(){ 
+    urlBase = location.href.substring(0,location.href.lastIndexOf(""/"")+1); 
+    window.history.pushState('', document.title, urlBase);
+}
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19943769-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>    
+</form>
+</body>
+</html>

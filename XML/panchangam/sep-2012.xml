@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<panchangam>
+  <EventID>sep-2012</EventID>
+  <EventName>September 2012</EventName>
+  <EventDate>
+    <day>
+      <date>2012-09-04</date>
+      <text>Sankatahara Chathurthi</text>
+    </day>
+    <day>
+      <date>2012-09-06</date>
+      <text>Sashti</text>
+    </day>
+    <day>
+      <date>2012-09-07</date>
+      <text>Krithigai</text>
+    </day>
+    <day>
+      <date>2012-09-12</date>
+      <text>Ekadasi</text>
+    </day>
+    <day>
+      <date>2012-09-13</date>
+      <text>Pradosham</text>
+    </day>
+    <day>
+      <date>2012-09-15</date>
+      <text>Amavasai</text>
+    </day>
+    <day>
+      <date>2012-09-17</date>
+      <text>Purattasi Maasa Pirappu</text>
+    </day>
+    <day>
+      <date>2012-09-19</date>
+      <text>Vinayakar Chathurthi</text>
+    </day>
+    <day>
+      <date>2012-09-21</date>
+      <text>Sashti</text>
+    </day>
+    <day>
+      <date>2012-09-26</date>
+      <text>Ekadasi</text>
+    </day>
+    <day>
+      <date>2012-09-27</date>
+      <text>Pradosham</text>
+    </day>
+    <day>
+      <date>2012-09-28</date>
+      <text>Natarajar Abishemam</text>
+    </day>
+    <day>
+      <date>2012-09-29</date>
+      <text>Pournami</text>
+    </day>
+    <day>
+      <date>2012-09-30</date>
+      <text>Mahalaya Pasham</text>
+    </day>
+  </EventDate>
+  <ExpiryDate>2012-10-01</ExpiryDate>
+</panchangam>
